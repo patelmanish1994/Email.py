@@ -1,1 +1,1 @@
-# Email.py
+HOW SEND THE EMAIL VIA PYTHON
